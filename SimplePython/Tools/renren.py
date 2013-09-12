@@ -73,7 +73,7 @@ class spider(SGMLParser):
 
 
 
-renrenspider=spider('zhangweiever@163.com','change')
+renrenspider=spider('','')
 renrenspider.login()
 content=raw_input(u'请输入状态的内容：')
 renrenspider.publish(content.decode('gb2312').encode('utf-8'))
