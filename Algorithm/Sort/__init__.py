@@ -29,6 +29,12 @@ def intersect():
     print res
     
 if __name__=='__main__':
-    qsort()
+    #qsort()
     #intersect()
+    A=[random.randint(0,10) for x in range(10)]
+    from CountingSort import *
+    B=[0 for x in range(len(A))]#构建新的数组
+    countingSort(A,B,11)
+    print A
+    print B
     

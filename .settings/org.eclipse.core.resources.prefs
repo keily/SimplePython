@@ -1,5 +1,12 @@
-#Mon Aug 26 23:58:17 CST 2013
+#Mon Sep 30 13:55:08 CST 2013
 eclipse.preferences.version=1
+encoding//Algorithm/Heap/__init__.py=UTF-8
+encoding//Algorithm/Math/__init__.py=UTF-8
+encoding//Algorithm/Math/kMath.py=UTF-8
+encoding//Algorithm/Sort/CountingSort.py=UTF-8
+encoding//Algorithm/Sort/IntersectOfArrays.py=utf-8
+encoding//Algorithm/Sort/QuickSort.py=utf-8
+encoding//Algorithm/Sort/__init__.py=UTF-8
 encoding//Algorithm/String/kmp.py=gbk
 encoding//DesignPattern/AbstractFactory/AbstractFactory.py=gbk
 encoding//DesignPattern/Adapter/Adapter.py=gbk
@@ -16,8 +23,8 @@ encoding//DesignPattern/ShareMeta/ShareMeta.py=gbk
 encoding//DesignPattern/SimpleFactory/SimpleFactory.py=gbk
 encoding//DesignPattern/Strategy/Strategy.py=gbk
 encoding//DesignPattern/TemplateMethod/TemplateMethod.py=gbk
+encoding//SimplePython/Basic/Thread/MonitorProcess.py=gbk
+encoding//SimplePython/Basic/Thread/MutliProcess.py=UTF-8
 encoding//SimplePython/Tools/DownDoubBanImages.py=utf-8
-encoding//SimplePython/Tools/MonitorProcess.py=gbk
-encoding//SimplePython/Tools/MutliProcess.py=gbk
 encoding//SimplePython/Tools/SendEmail.py=cp936
 encoding//SimplePython/Tools/renren.py=UTF-8

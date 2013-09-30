@@ -1,4 +1,4 @@
-#coding=gbk
+#coding=UTF-8
 import thread
 import time
 '''
