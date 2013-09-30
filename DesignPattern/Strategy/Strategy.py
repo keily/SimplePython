@@ -1,5 +1,8 @@
-#coding=gbk
-
+#coding=utf-8
+'''
+模式特点：定义算法家族并且分别封装，它们之间可以相互替换而不影响客户端。
+程序实例：商场收银软件，需要根据不同的销售策略方式进行收费
+'''
 class Sale:
     def acceptCash(self,money):
         return money

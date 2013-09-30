@@ -1,4 +1,4 @@
-#Mon Sep 30 13:55:08 CST 2013
+#Mon Sep 30 17:44:46 CST 2013
 eclipse.preferences.version=1
 encoding//Algorithm/Heap/__init__.py=UTF-8
 encoding//Algorithm/Math/__init__.py=UTF-8
@@ -14,14 +14,16 @@ encoding//DesignPattern/Bridge/Bridge.py=gbk
 encoding//DesignPattern/Combination/Combination.py=gbk
 encoding//DesignPattern/Command/Command.py=gbk
 encoding//DesignPattern/Decorate/Decorate.py=gbk
+encoding//DesignPattern/Decorate/WrappedPattern.py=gbk
 encoding//DesignPattern/Duty/Duty.py=gbk
 encoding//DesignPattern/Factory/Factory.py=gbk
 encoding//DesignPattern/Mediator/Mediator.py=gbk
 encoding//DesignPattern/Observer/Observer.py=gbk
+encoding//DesignPattern/Prototype/__init__.py=UTF-8
 encoding//DesignPattern/Proxy/Proxy.py=gbk
 encoding//DesignPattern/ShareMeta/ShareMeta.py=gbk
-encoding//DesignPattern/SimpleFactory/SimpleFactory.py=gbk
-encoding//DesignPattern/Strategy/Strategy.py=gbk
+encoding//DesignPattern/SimpleFactory/SimpleFactory.py=utf-8
+encoding//DesignPattern/Strategy/Strategy.py=utf-8
 encoding//DesignPattern/TemplateMethod/TemplateMethod.py=gbk
 encoding//SimplePython/Basic/Thread/MonitorProcess.py=gbk
 encoding//SimplePython/Basic/Thread/MutliProcess.py=UTF-8
