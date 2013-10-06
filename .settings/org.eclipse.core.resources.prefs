@@ -1,5 +1,14 @@
-#Mon Aug 26 23:58:17 CST 2013
+#Sun Oct 06 16:53:57 CST 2013
 eclipse.preferences.version=1
+encoding//Algorithm/List/CycleQueue.py=UTF-8
+encoding//Algorithm/List/IList.py=UTF-8
+encoding//Algorithm/List/IQueue.py=UTF-8
+encoding//Algorithm/List/IStack.py=UTF-8
+encoding//Algorithm/List/LinkList.py=UTF-8
+encoding//Algorithm/List/LinkStack.py=UTF-8
+encoding//Algorithm/List/Node.py=UTF-8
+encoding//Algorithm/List/__init__.py=UTF-8
+encoding//Algorithm/Sort/QuickSort.py=utf-8
 encoding//Algorithm/String/kmp.py=gbk
 encoding//DesignPattern/AbstractFactory/AbstractFactory.py=gbk
 encoding//DesignPattern/Adapter/Adapter.py=gbk
