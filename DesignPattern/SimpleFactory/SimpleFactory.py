@@ -1,8 +1,11 @@
-#coding=gbk
-
+#coding=utf-8
+'''
+模式特点：工厂根据条件产生不同功能的类。
+程序实例：四则运算计算器，根据用户的输入产生相应的运算类，用这个运算类处理具体的运算。
+'''
 class Operation:
     def getResult(self):
-        pss
+        pass
 
 class OperationAdd(Operation):
     def getResult(self):

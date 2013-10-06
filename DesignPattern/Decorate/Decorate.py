@@ -1,4 +1,8 @@
 #coding=gbk
+'''
+模式特点：动态地为对象增加额外的职责
+程序实例：展示一个人一件一件穿衣服的过程。
+'''
 #装饰模式
 class Person:
     def __init__(self,tname):
